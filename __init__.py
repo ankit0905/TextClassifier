@@ -114,10 +114,53 @@ class Classifier:
 		self.XTestTfIdf = self.tfidfTransformer.transform(XTest)
 		self.predicted = self.clf.predict(self.XTestTfIdf)
 
+	def KNNClassifier(self):
+		""" Applies the K-nearest Neighbours Classifier and stores the predicted
+			result in self.predicted.
+		"""
+		# dt = DistanceMetric(metric="pyfunc", func=self.distance)
+		self.clf = KNeighborsClassifier(n_neighbors=341).fit(self.XTrainTfIdf, self.train_labels)
+		self.vectorizer.set_params(max_features=2400)
+		# print(self.vectorizer.get_params())
+		XTest = self.vectorizer.transform(self.test_data)
+		self.XTestTfIdf = self.tfidfTransformer.transform(XTest)
+		self.predicted = self.clf.predict(self.XTestTfIdf)
+
+	# Add method for SVM Classifier here.
+
+	def testModel(self):
+		""" Tests the training model against training and test data and calls
+			the score method for full report.
+		"""
+		self.classifier = raw_input("Enter type of classifier (NB or KNN or SVM): ")
+		if self.classifier == "NB":
+			self.naiveBayesClassifier()
+		elif self.classifier == "KNN":
+			self.KNNClassifier()
+		elif self.classifier == "SVM":
+			self.SVMClassifier()
+		self.score()
+
+	def inputPrediction(self):
+		""" Takes in the input sentence to be classified and type of classifier
+			to be used and classifies it to some appropriate document.
+		"""
+		self.inp = raw_input("Enter sentence: ")
+		self.classifier = raw_input("Enter type of classifier (NB or KNN or SVM): ")
+		if self.classifier == "NB":
+			self.naiveBayesClassifier()
+		elif self.classifier == "KNN":
+			self.KNNClassifier()
+		elif self.classifier == "SVM":
+			self.SVMClassifier()
+		XInp = self.vectorizer.transform([self.inp])
+		# self.XInpTfIdf = self.tfidfTransformer.transform(XInp)
+		self.predicted = self.clf.predict(XInp)
+		print(self.docs[int(self.predicted)][:-4])
 	
 if __name__ == '__main__':
 	with warnings.catch_warnings(record=True) as w:
 		warnings.simplefilter("always")
 		training_docs = os.listdir(os.getcwd() + '/Data/')
 		cf = Classifier(training_docs)
-		# Add code for Prediction and Training
+		# Call appropriate methods here for input prediction or model training
