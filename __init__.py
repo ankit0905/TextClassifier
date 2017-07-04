@@ -126,7 +126,23 @@ class Classifier:
 		self.XTestTfIdf = self.tfidfTransformer.transform(XTest)
 		self.predicted = self.clf.predict(self.XTestTfIdf)
 
-	# Add method for SVM Classifier here.
+	def SVMClassifier(self):
+		""" Applies the Support Vector Machine (SVM) Classifier and stores the
+			predicted result in self.predicted.
+		"""
+		self.clf = LinearSVC().fit(self.XTrainTfIdf, self.train_labels)
+		self.vectorizer.set_params(max_features=2000)
+		XTest = self.vectorizer.transform(self.test_data)
+		self.XTestTfIdf = self.tfidfTransformer.transform(XTest)
+		self.predicted = self.clf.predict(self.XTestTfIdf)
+
+	def score(self):
+		""" Based on the actual test data labels and predicted labels, generates
+			the accuracy of the classification and also generates a report for
+			the same.
+		"""
+		print("ACCURACY: " + str(accuracy_score(self.test_labels, self.predicted)))
+		print(metrics.classification_report(self.test_labels, self.predicted))
 
 	def testModel(self):
 		""" Tests the training model against training and test data and calls
@@ -163,4 +179,10 @@ if __name__ == '__main__':
 		warnings.simplefilter("always")
 		training_docs = os.listdir(os.getcwd() + '/Data/')
 		cf = Classifier(training_docs)
-		# Call appropriate methods here for input prediction or model training
+		cf.setTestAndTrainingData()
+		cf.transformFeatures()
+		inp = raw_input("Enter P for input prediction OR T for testing model: ")
+		if inp == "P":
+			cf.inputPrediction()
+		else:
+			cf.testModel()
