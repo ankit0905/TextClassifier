@@ -1,0 +1,136 @@
+Fever, also known as pyrexia and febrile response, is defined as having a temperature above the normal range due to an increase in the body's temperature set-point. There is not a single agreed-upon upper limit for normal temperature with sources using values between 37.5 and 38.3 °C (99.5 and 100.9 °F). The increase in set-point triggers increased muscle contractions and causes a feeling of cold. This results in greater heat production and efforts to conserve heat. When the set-point temperature returns to normal, a person feels hot, becomes flushed, and may begin to sweat. Rarely a fever may trigger a febrile seizure. This is more common in young children. Fevers do not typically go higher than 41 to 42 °C (105.8 to 107.6 °F).
+A fever can be caused by many medical conditions ranging from not serious to potentially serious. This includes viral, bacterial and parasitic infections such as the common cold, urinary tract infections, meningitis, malaria and appendicitis among others. Non-infectious causes include vasculitis, deep vein thrombosis, side effects of medication, and cancer among others. It differs from hyperthermia, in that hyperthermia is an increase in body temperature over the temperature set-point, due to either too much heat production or not enough heat loss.
+Treatment to reduce fever is generally not required. Treatment of associated pain and inflammation, however, may be useful and help a person rest. Medications such as ibuprofen or paracetamol (acetaminophen) may help with this as well as lower temperature. Measures such as putting a cool damp cloth on the forehead and having a slightly warm bath are not useful and may simply make a person more uncomfortable. Children younger than three months require medical attention, as might people with serious medical problems such as a compromised immune system or people with other symptoms. Hyperthermia does require treatment.
+Fever is one of the most common medical signs. It is part of about 30% of healthcare visits by children and occurs in up to 75% of adults who are seriously sick. While fever is a useful defense mechanism, treating fever does not appear to worsen outcomes. Fever is viewed with greater concern by parents and healthcare professionals than it usually deserves, a phenomenon known as fever phobia.
+
+
+== Definition ==
+A wide range for normal temperatures has been found. Central temperatures, such as rectal temperatures, are more accurate than peripheral temperatures. Fever is generally agreed to be present if the elevated temperature is caused by a raised set point and:
+Temperature in the anus (rectum/rectal) is at or over 37.5–38.3 °C (99.5–100.9 °F)
+Temperature in the mouth (oral) is at or over 37.7 °C (99.9 °F)
+Temperature under the arm (axillary) or in the ear (tympanic) is at or over 37.2 °C (99.0 °F)
+In healthy adult men and women, the range of normal, healthy temperatures for oral temperature is 33.2–38.2 °C (91.8–100.8 °F), for rectal it is 34.4–37.8 °C (93.9–100.0 °F), for tympanic membrane (the ear drum) it is 35.4–37.8 °C (95.7–100.0 °F), and for axillary (the armpit) it is 35.5–37.0 °C (95.9–98.6 °F). Harrison's principles of internal medicine defines a fever as a morning oral temperature of >37.2 °C (>98.9 °F) or an afternoon oral temperature of >37.7 °C (>99.9 °F) while the normal daily temperature variation is typically 0.5 °C (0.9 °F).
+Normal body temperatures vary depending on many factors, including age, sex, time of day, ambient temperature, activity level, and more. A raised temperature is not always a fever. For example, the temperature of a healthy person rises when he or she exercises, but this is not considered a fever, as the set-point is normal. On the other hand, a "normal" temperature may be a fever, if it is unusually high for that person. For example, medically frail elderly people have a decreased ability to generate body heat, so a "normal" temperature of 37.3 °C (99.1 °F) may represent a clinically significant fever.
+
+
+=== Types ===
+
+The pattern of temperature changes may occasionally hint at the diagnosis:
+Continuous fever: Temperature remains above normal throughout the day and does not fluctuate more than 1 °C in 24 hours, e.g. lobar pneumonia, typhoid, meningitis, urinary tract infection, or typhus. Typhoid fever may show a specific fever pattern (Wunderlich curve of typhoid fever), with a slow stepwise increase and a high plateau. (Drops due to fever-reducing drugs are excluded.)
+Intermittent fever: The temperature elevation is present only for a certain period, later cycling back to normal, e.g. malaria, kala-azar, pyaemia, or septicemia. Following are its types:Quotidian fever, with a periodicity of 24 hours, typical of Plasmodium falciparum or Plasmodium knowlesi malaria
+Tertian fever (48-hour periodicity), typical of Plasmodium vivax or Plasmodium ovale malaria
+Quartan fever (72-hour periodicity), typical of Plasmodium malariae malaria.
+
+Remittent fever: Temperature remains above normal throughout the day and fluctuates more than 1 °C in 24 hours, e.g., infective endocarditis, brucellosis.
+Pel-Ebstein fever: A specific kind of fever associated with Hodgkin's lymphoma, being high for one week and low for the next week and so on. However, there is some debate as to whether this pattern truly exists.
+A neutropenic fever, also called febrile neutropenia, is a fever in the absence of normal immune system function. Because of the lack of infection-fighting neutrophils, a bacterial infection can spread rapidly; this fever is, therefore, usually considered to require urgent medical attention. This kind of fever is more commonly seen in people receiving immune-suppressing chemotherapy than in apparently healthy people.
+Febricula is an old term for a low-grade fever, especially if the cause is unknown, no other symptoms are present, and the patient recovers fully in less than a week.
+
+
+=== Hyperpyrexia ===
+Hyperpyrexia is an extreme elevation of body temperature which, depending upon the source, is classified as a core body temperature greater than or equal to 40.0 or 41.5 °C (104.0 or 106.7 °F). Such a high temperature is considered a medical emergency, as it may indicate a serious underlying condition or lead to problems including permanent brain damage, or death. The most common cause of hyperpyrexia is an intracranial hemorrhage. Other possible causes include sepsis, Kawasaki syndrome, neuroleptic malignant syndrome, drug overdose, serotonin syndrome, and thyroid storm.
+Infections are the most common cause of fevers, but as the temperature rises other causes become more common. Infections commonly associated with hyperpyrexia include roseola, measles and enteroviral infections. Immediate aggressive cooling to less than 38.9 °C (102.0 °F) has been found to improve survival. Hyperpyrexia differs from hyperthermia in that in hyperpyrexia the body's temperature regulation mechanism sets the body temperature above the normal temperature, then generates heat to achieve this temperature, while in hyperthermia the body temperature rises above its set point due to an outside source.
+
+
+=== Hyperthermia ===
+Hyperthermia is an example of a high temperature that is not a fever. It occurs from a number of causes including heatstroke, neuroleptic malignant syndrome, malignant hyperthermia, stimulants such as substituted amphetamines and cocaine, idiosyncratic drug reactions, and serotonin syndrome.
+
+
+== Signs and symptoms ==
+
+A fever is usually accompanied by sickness behavior, which consists of lethargy, depression, anorexia, sleepiness, hyperalgesia, and the inability to concentrate.
+
+
+== Differential diagnosis ==
+Fever is a common symptom of many medical conditions:
+Infectious disease, e.g., influenza, primary HIV infection, malaria, Ebola, infectious mononucleosis, gastroenteritis, Lyme disease
+Various skin inflammations, e.g., boils, abscess
+Immunological diseases, e.g., lupus erythematosus, sarcoidosis, inflammatory bowel diseases, Kawasaki disease, Still disease, Horton disease, granulomatosis with polyangiitis, autoimmune hepatitis, relapsing polychondritis
+Tissue destruction, which can occur in hemolysis, surgery, infarction, crush syndrome, rhabdomyolysis, cerebral bleeding, etc.
+Reaction to incompatible blood products
+Cancers, most commonly kidney cancer and leukemia and lymphomas
+Metabolic disorders: gout, porphyria
+Inherited metabolic disorder: Fabry disease
+Persistent fever that cannot be explained after repeated routine clinical inquiries is called fever of unknown origin.
+Teething is not a cause.
+
+
+== Pathophysiology ==
+
+Temperature is ultimately regulated in the hypothalamus. A trigger of the fever, called a pyrogen, causes a release of prostaglandin E2 (PGE2). PGE2 then in turn acts on the hypothalamus, which generates a systemic response back to the rest of the body, causing heat-creating effects to match a new temperature level.
+In many respects, the hypothalamus works like a thermostat. When the set point is raised, the body increases its temperature through both active generation of heat and retention of heat. Peripheral vasoconstriction both reduces heat loss through the skin and causes the person to feel cold. Norepinephrine increases thermogenesis in brown adipose tissue, and acetylcholine stimulates muscle to raise metabolic rate. If these measures are insufficient to make the blood temperature in the brain match the new set point in the hypothalamus, then shivering begins in order to use muscle movements to produce more heat. When the hypothalamic set point moves back to baseline either spontaneously or with medication, the reverse of these processes (vasodilation, end of shivering and nonshivering heat production) and sweating are used to cool the body to the new, lower setting.
+This contrasts with hyperthermia, in which the normal setting remains, and the body overheats through undesirable retention of excess heat or over-production of heat. Hyperthermia is usually the result of an excessively hot environment (heat stroke) or an adverse reaction to drugs. Fever can be differentiated from hyperthermia by the circumstances surrounding it and its response to anti-pyretic medications.
+
+
+=== Pyrogens ===
+A pyrogen is a substance that induces fever. These can be either internal (endogenous) or external (exogenous) to the body. The bacterial substance lipopolysaccharide (LPS), present in the cell wall of gram-negative bacteria, is an example of an exogenous pyrogen. Pyrogenicity can vary: In extreme examples, some bacterial pyrogens known as superantigens can cause rapid and dangerous fevers. Depyrogenation may be achieved through filtration, distillation, chromatography, or inactivation.
+
+
+==== Endogenous ====
+In essence, all endogenous pyrogens are cytokines, molecules that are a part of the immune system. They are produced by activated immune cells and cause the increase in the thermoregulatory set point in the hypothalamus. Major endogenous pyrogens are interleukin 1 (α and β) and interleukin 6 (IL-6). Minor endogenous pyrogens include interleukin-8, tumor necrosis factor-β, macrophage inflammatory protein-α and macrophage inflammatory protein-β as well as interferon-α, interferon-β, and interferon-γ. Tumor necrosis factor-α also acts as a pyrogen. It is mediated by interleukin 1 (IL-1) release.
+These cytokine factors are released into general circulation, where they migrate to the circumventricular organs of the brain due to easier absorption caused by the blood–brain barrier's reduced filtration action there. The cytokine factors then bind with endothelial receptors on vessel walls, or interact with local microglial cells. When these cytokine factors bind, the arachidonic acid pathway is then activated.
+
+
+==== Exogenous ====
+One model for the mechanism of fever caused by exogenous pyrogens includes LPS, which is a cell wall component of gram-negative bacteria. An immunological protein called lipopolysaccharide-binding protein (LBP) binds to LPS. The LBP–LPS complex then binds to the CD14 receptor of a nearby macrophage. This binding results in the synthesis and release of various endogenous cytokine factors, such as interleukin 1 (IL-1), interleukin 6 (IL-6), and the tumor necrosis factor-alpha. In other words, exogenous factors cause release of endogenous factors, which, in turn, activate the arachidonic acid pathway. The highly toxic metabolism-boosting supplement 2,4-Dinitrophenol induces [[hyperthermia]|high body temperature] via the inhibition of ATP production by mitochondria, resulting in impairment of cellular respiration. Instead of producing ATP, the energy of the proton gradient is lost as heat.
+
+
+=== PGE2 release ===
+PGE2 release comes from the arachidonic acid pathway. This pathway (as it relates to fever), is mediated by the enzymes phospholipase A2 (PLA2), cyclooxygenase-2 (COX-2), and prostaglandin E2 synthase. These enzymes ultimately mediate the synthesis and release of PGE2.
+PGE2 is the ultimate mediator of the febrile response. The set point temperature of the body will remain elevated until PGE2 is no longer present. PGE2 acts on neurons in the preoptic area (POA) through the prostaglandin E receptor 3 (EP3). EP3-expressing neurons in the POA innervate the dorsomedial hypothalamus (DMH), the rostral raphe pallidus nucleus in the medulla oblongata (rRPa), and the paraventricular nucleus (PVN) of the hypothalamus . Fever signals sent to the DMH and rRPa lead to stimulation of the sympathetic output system, which evokes non-shivering thermogenesis to produce body heat and skin vasoconstriction to decrease heat loss from the body surface. It is presumed that the innervation from the POA to the PVN mediates the neuroendocrine effects of fever through the pathway involving pituitary gland and various endocrine organs.
+
+
+=== Hypothalamus ===
+The brain ultimately orchestrates heat effector mechanisms via the autonomic nervous system. These may be:
+Increased heat production by increased muscle tone, shivering and hormones like epinephrine (adrenaline)
+Prevention of heat loss, such as vasoconstriction.
+In infants, the autonomic nervous system may also activate brown adipose tissue to produce heat (non-exercise-associated thermogenesis, also known as non-shivering thermogenesis). Increased heart rate and vasoconstriction contribute to increased blood pressure in fever.
+
+
+=== Usefulness ===
+There are arguments for and against the usefulness of fever, and the issue is controversial.  There are studies using warm-blooded vertebrates with some suggesting that they recover more rapidly from infections or critical illness due to fever. Studies suggest reduced mortality in bacterial infections when fever was present.
+In theory, fever can aid in host defense. There are certainly some important immunological reactions that are sped up by temperature, and some pathogens with strict temperature preferences could be hindered.
+Research has demonstrated that fever assists the healing process in several important ways:
+Increased mobility of leukocytes
+Enhanced leukocyte phagocytosis
+Endotoxin effects decreased
+Increased proliferation of T cells
+
+
+== Management ==
+Fever should not necessarily be treated. Most people recover without specific medical attention. Although it is unpleasant, fever rarely rises to a dangerous level even if untreated. Damage to the brain generally does not occur until temperatures reach 42 °C (107.6 °F), and it is rare for an untreated fever to exceed 40.6 °C (105 °F). Treating fever in people with sepsis does not affect outcomes.
+
+
+=== Conservative measures ===
+Some limited evidence supports sponging or bathing feverish children with tepid water. The use of a fan or air conditioning may somewhat reduce the temperature and increase comfort. If the temperature reaches the extremely high level of hyperpyrexia, aggressive cooling is required (generally produced mechanically via conduction by applying numerous ice packs across most of the body or direct submersion in ice water). In general, people are advised to keep adequately hydrated. Whether increased fluid intake improves symptoms or shortens respiratory illnesses such as the common cold is not known.
+
+
+=== Medications ===
+Medications that lower fevers are called antipyretics. The antipyretic ibuprofen is effective in reducing fevers in children. It is more effective than acetaminophen (paracetamol) in children. Ibuprofen and acetaminophen may be safely used together in children with fevers. The efficacy of acetaminophen by itself in children with fevers has been questioned. Ibuprofen is also superior to aspirin in children with fevers. Additionally, aspirin is not recommended in children and young adults (those under the age of 16 or 19 depending on the country) due to the risk of Reye's syndrome.
+Using both paracetamol and ibuprofen at the same time or alternating between the two is more effective at decreasing fever than using only paracetamol or ibuprofen. It is not clear if it increases child comfort. Response or nonresponse to medications does not predict whether or not a child has a serious illness.
+
+
+== Epidemiology ==
+About 5% of people who go to an emergency room have a fever.
+
+
+== History ==
+A number of types of fever were known as early as 460 BC to 370 BC when Hippocrates was practicing medicine including that due to malaria (tertian or every 2 days and quartan or every 3 days). It also became clear around this time that fever was a symptom of disease rather than a disease in and of itself.
+
+
+== Society and culture ==
+
+
+=== Etymology ===
+Pyrexia is from the Greek pyr meaning fire. Febrile is from the Latin word febris, meaning fever, and archaically known as ague.
+
+
+=== Fever phobia ===
+Fever phobia is the name given by medical experts to parents' misconceptions about fever in their children. Among them, many parents incorrectly believe that fever is a disease rather than a medical sign, that even low fevers are harmful, and that any temperature even briefly or slightly above the oversimplified "normal" number marked on a thermometer is a clinically significant fever. They are also afraid of harmless side effects like febrile seizures and dramatically overestimate the likelihood of permanent damage from typical fevers. The underlying problem, according to professor of pediatrics Barton D. Schmitt, is "as parents we tend to suspect that our children’s brains may melt."
+As a result of these misconceptions parents are anxious, give the child fever-reducing medicine when the temperature is technically normal or only slightly elevated, and interfere with the child's sleep to give the child more medicine.
+
+
+== Other animals ==
+Fever is an important feature for the diagnosis of disease in domestic animals. The body temperature of animals, which is taken rectally, is different from one species to another. For example, a horse is said to have a fever above 101 °F (38.3 °C). In species that allow the body to have a wide range of "normal" temperatures, such as camels, it is sometimes difficult to determine a febrile stage.
+Fever can also be behaviorally induced by invertebrates that do not have immune-system based fever. For instance, some species of grasshopper will thermoregulate to achieve body temperatures that are 2–5 °C higher than normal in order to inhibit the growth of fungal pathogens such as Beauveria bassiana and Metarhizium acridum. Honeybee colonies are also able to induce a fever in response to a fungal parasite Ascosphaera apis. 
+
